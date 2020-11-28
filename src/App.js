@@ -6,6 +6,7 @@ function App() {
     <div className="App">
      
       <h1>Back To React</h1>
+      <h2>God is good</h2>
   
     </div>
   );
